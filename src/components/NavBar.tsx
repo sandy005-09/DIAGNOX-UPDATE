@@ -116,17 +116,6 @@ export function NavBar() {
           >
             About Us
           </motion.button>
-          <motion.a
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            href="/#contact"
-            className={`font-body-semibold text-[16px] leading-[1.45] cursor-pointer transition-colors ${theme === 'dark'
-                ? 'text-[#C0C0C0] hover:text-[#ffffff]'
-                : 'text-gray-600 hover:text-gray-900'
-              }`}
-          >
-            Contact
-          </motion.a>
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}

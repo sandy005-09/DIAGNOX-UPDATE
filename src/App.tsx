@@ -110,7 +110,7 @@ function HeroSection() {
               backgroundClip: 'text',
             } : {}}
           >
-            DiagnoX is redefining car health with AI-powered diagnostics that<br />
+            DiagnoX is redefining truck health with AI-powered diagnostics that<br />
             predict, prevent, and perfect performance.
           </motion.p>
         </div>
@@ -195,11 +195,11 @@ function AboutUsSection() {
   const benefits = [
     {
       title: 'Instant, Accurate Diagnostics',
-      description: 'DiagnoX delivers rapid, AI-driven health checks for your vehicle, transforming raw sensor data into clear, actionable insights—so you know exactly what your car needs, fast.',
+      description: 'DiagnoX delivers rapid, AI-driven health checks for your vehicle, transforming raw sensor data into clear, actionable insights—so you know exactly what your truck needs, fast.',
     },
     {
       title: 'Proactive Peace of Mind',
-      description: "DiagnoX helps you prevent breakdowns & costly repairs by sending early warnings & predictive maintenance alerts based on real AI analysis of your car's condition & usage.",
+      description: "DiagnoX helps you prevent breakdowns & costly repairs by sending early warnings & predictive maintenance alerts based on real AI analysis of your truck's condition & usage.",
     },
     {
       title: 'Data Security & Privacy',

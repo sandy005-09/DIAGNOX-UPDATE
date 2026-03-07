@@ -99,11 +99,11 @@ function BentoCard({ title, description, index, width, height, x, y }: BentoCard
         </>
       );
     }
-    if (text.startsWith("Sends instant notifications if the car is being towed")) {
+    if (text.startsWith("Sends instant notifications if the truck is being towed")) {
       return (
         <>
           Sends instant notifications<br />
-          if the car is being<br />
+          if the truck is being<br />
           towed, moved without<br />
           authorization, or if the<br />
           device is tampered with.
@@ -289,7 +289,7 @@ export function BentoGrid() {
     },
     {
       text: "Anti-Theft & Anti-Tow Alerts",
-      description: "Sends instant notifications if the car is being towed, moved without authorization, or if the device is tampered with.",
+      description: "Sends instant notifications if the truck is being towed, moved without authorization, or if the device is tampered with.",
       x: 456 + gap,
       y: 0,
       width: 296,
