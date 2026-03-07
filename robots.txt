@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sandy005-09.github.io/DIAGNOX-UPDATE/sitemap.xml
